@@ -554,6 +554,60 @@ body {
   -moz-text-fill-color: transparent;
 }
 
+.form__container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.form__content h1 {
+  font-size: 1.5rem;
+  background-color: #ff8177;
+  background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.contactpage__content p {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  padding: 0 50px;
+  /* font-weight: 1; */
+  color: #fff;
+}
+.contactpage__content h2 {
+  font-size: 2rem;
+  background-color: #ff8177;
+  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+contactpage__content a {
+  text-decoration: none;
+}
+
+.contactpage__content ul {
+  font-size: 1.5rem;
+  background-color: #ff8177;
+  background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  cursor: pointer;
+  padding: 0 50px;
+  list-style: none;
+}
+
+
 @media screen and (max-width: 960px) {
   .services {
     height: 1600px;
