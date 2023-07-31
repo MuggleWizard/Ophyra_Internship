@@ -298,6 +298,11 @@ body {
   width: 80%;
 }
 
+#contact__img{
+  height: 80%;
+  width: 100%;
+}
+
 .welcome {
   background-color: #141414;
   margin-top: 1rem;
