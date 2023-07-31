@@ -514,7 +514,7 @@
 .footer__link--items a {
   color: #fff;
   text-decoration: none;
-  margin-bottom: 0.5 rem;
+  margin-bottom: 0.5rem;
 }
 
 .footer__link--items a:hover {
@@ -528,7 +528,7 @@
   font-size: 24px;
 }
 
-.social_media {
+.social__media {
   max-width: 1000px;
   width: 100%;
 }
