@@ -294,6 +294,19 @@
   width: 80%;
 }
 
+.welcome {
+  background-color: #141414;
+}
+.welcome__container p {
+  margin-top: 0.3rem;
+  font-size: 2rem;
+  font-weight: 10;
+  color: #fff;
+}
+
+
+
+
 /* Mobile Responsive */
 @media screen and (max-width: 768px) {
   .main__container {
